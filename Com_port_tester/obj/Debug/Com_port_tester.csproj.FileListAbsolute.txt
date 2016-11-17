@@ -1,0 +1,9 @@
+c:\users\pt-ls\documents\visual studio 2013\Projects\Com_port_tester\Com_port_tester\bin\Debug\Com_port_tester.exe.config
+c:\users\pt-ls\documents\visual studio 2013\Projects\Com_port_tester\Com_port_tester\bin\Debug\Com_port_tester.exe
+c:\users\pt-ls\documents\visual studio 2013\Projects\Com_port_tester\Com_port_tester\bin\Debug\Com_port_tester.pdb
+c:\users\pt-ls\documents\visual studio 2013\Projects\Com_port_tester\Com_port_tester\obj\Debug\Com_port_tester.csprojResolveAssemblyReference.cache
+c:\users\pt-ls\documents\visual studio 2013\Projects\Com_port_tester\Com_port_tester\obj\Debug\Com_port_tester.Form1.resources
+c:\users\pt-ls\documents\visual studio 2013\Projects\Com_port_tester\Com_port_tester\obj\Debug\Com_port_tester.Properties.Resources.resources
+c:\users\pt-ls\documents\visual studio 2013\Projects\Com_port_tester\Com_port_tester\obj\Debug\Com_port_tester.csproj.GenerateResource.Cache
+c:\users\pt-ls\documents\visual studio 2013\Projects\Com_port_tester\Com_port_tester\obj\Debug\Com_port_tester.exe
+c:\users\pt-ls\documents\visual studio 2013\Projects\Com_port_tester\Com_port_tester\obj\Debug\Com_port_tester.pdb
